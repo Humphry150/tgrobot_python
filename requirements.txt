@@ -1,0 +1,4 @@
+flask
+python-telegram-bot
+setting_command.py
+setting_constant.py

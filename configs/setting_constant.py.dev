@@ -1,0 +1,10 @@
+#-*-coding:utf-8 -*-
+
+debug = False
+port = 8804
+host = "0.0.0.0"
+
+
+telegram_botname = "robot"
+telegram_token="555312019:AAEUpOdXZ6lPLnh3Dukz1cd3YPN6_BgbYMA"
+telegram_webhook="https://a.yunex.io/bot/cmd"
